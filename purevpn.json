@@ -1,343 +1,518 @@
 [
   {
-    "Hostnames": "prox-af.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-af.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "af"
   },
   {
-    "Hostnames": "prox-al.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-al.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "al"
   },
   {
-    "Hostnames": "prox-dz.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-dz.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "dz"
   },
   {
-    "Hostnames": "prox-ao.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ao.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ao"
   },
   {
-    "Hostnames": "prox-ar.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ar.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ar"
   },
   {
-    "Hostnames": "prox-aw.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-aw.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "aw"
   },
   {
-    "Hostnames": "prox-au.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-au.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "au"
   },
   {
-    "Hostnames": "prox-at.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-at.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "at"
   },
   {
-    "Hostnames": "prox-bs.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bs.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bs"
   },
   {
-    "Hostnames": "prox-bh.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bh.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bh"
   },
   {
-    "Hostnames": "prox-bd.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bd.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bd"
   },
   {
-    "Hostnames": "prox-bb.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bb.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bb"
   },
   {
-    "Hostnames": "prox-be.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-be.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "be"
   },
   {
-    "Hostnames": "prox-bm.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bm.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bm"
   },
   {
-    "Hostnames": "prox-bo.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bo.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bo"
   },
   {
-    "Hostnames": "prox-br.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-br.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "br"
   },
   {
-    "Hostnames": "prox-bn.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bn.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bn"
   },
   {
-    "Hostnames": "prox-bg.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-bg.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "bg"
   },
   {
-    "Hostnames": "prox-ca.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ca.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ca"
   },
   {
-    "Hostnames": "prox-ky.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ky.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ky"
   },
   {
-    "Hostnames": "prox-cl.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-cl.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "cl"
   },
   {
-    "Hostnames": "prox-cn.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-cn.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "cn"
   },
   {
-    "Hostnames": "prox-cz.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-cz.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "cz"
   },
   {
-    "Hostnames": "prox-dk.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-dk.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "dk"
   },
   {
-    "Hostnames": "prox-eg.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-eg.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "eg"
   },
   {
-    "Hostnames": "prox-ee.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ee.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ee"
   },
   {
-    "Hostnames": "prox-fi.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-fi.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "fi"
   },
   {
-    "Hostnames": "prox-fr.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-fr.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "fr"
   },
   {
-    "Hostnames": "prox-de.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-de.pointtoserver.com",
+    "Port": 10780,
+    "Service": "NaN",
+    "Country": "de"
   },
   {
-    "Hostnames": "prox-gr.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-gr.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "gr"
   },
   {
-    "Hostnames": "prox-hk.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-hk.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "hk"
   },
   {
-    "Hostnames": "prox-hu.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-hu.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "hu"
   },
   {
-    "Hostnames": "prox-in.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-in.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "in"
   },
   {
-    "Hostnames": "prox-ie.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ie.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ie"
   },
   {
-    "Hostnames": "prox-it.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-it.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "it"
   },
   {
-    "Hostnames": "prox-jp.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-jp.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "jp"
   },
   {
-    "Hostnames": "prox-lv.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-lv.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "lv"
   },
   {
-    "Hostnames": "prox-lt.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-lt.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "lt"
   },
   {
-    "Hostnames": "prox-lu.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-lu.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "lu"
   },
   {
-    "Hostnames": "prox-md.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-md.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "md"
   },
   {
-    "Hostnames": "prox-mc.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-mc.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "mc"
   },
   {
-    "Hostnames": "prox-nl.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-nl.pointtoserver.com",
+    "Port": 10780,
+    "Service": "NaN",
+    "Country": "nl"
   },
   {
-    "Hostnames": "prox-nz.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-nz.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "nz"
   },
   {
-    "Hostnames": "prox-ng.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ng.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ng"
   },
   {
-    "Hostnames": "prox-no.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-no.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "no"
   },
   {
-    "Hostnames": "prox-om.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-om.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "om"
   },
   {
-    "Hostnames": "prox-pa.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-pa.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "pa"
   },
   {
-    "Hostnames": "prox-ph.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ph.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ph"
   },
   {
-    "Hostnames": "prox-pl.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-pl.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "pl"
   },
   {
-    "Hostnames": "prox-pt.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-pt.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "pt"
   },
   {
-    "Hostnames": "prox-pr.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-pr.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "pr"
   },
   {
-    "Hostnames": "prox-ro.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ro.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ro"
   },
   {
-    "Hostnames": "prox-ru.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ru.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ru"
   },
   {
-    "Hostnames": "prox-rs.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-rs.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "rs"
   },
   {
-    "Hostnames": "prox-sg.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-sg.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "sg"
   },
   {
-    "Hostnames": "prox-sk.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-sk.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "sk"
   },
   {
-    "Hostnames": "prox-za.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-za.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "za"
   },
   {
-    "Hostnames": "prox-kr.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-kr.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "kr"
   },
   {
-    "Hostnames": "prox-es.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-es.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "es"
   },
   {
-    "Hostnames": "prox-se.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-se.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "se"
   },
   {
-    "Hostnames": "prox-ch.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ch.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ch"
   },
   {
-    "Hostnames": "prox-tw.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-tw.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "tw"
   },
   {
-    "Hostnames": "prox-tr.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-tr.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "tr"
   },
   {
-    "Hostnames": "prox-ae.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ae.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "ae"
   },
   {
-    "Hostnames": "prox-uk.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-uk.pointtoserver.com",
+    "Port": 10780,
+    "Service": "NaN",
+    "Country": "uk"
   },
   {
-    "Hostnames": "prox-us.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-us.pointtoserver.com",
+    "Port": 10780,
+    "Service": "NaN",
+    "Country": "us"
   },
   {
-    "Hostnames": "prox-vn.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-vn.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "vn"
   },
   {
-    "Hostnames": "prox-vg.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-vg.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NaN",
+    "Country": "vg"
   },
   {
-    "Hostnames": "prox-amzus.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-amzus.pointtoserver.com",
+    "Port": 10780,
+    "Service": "Amazon US",
+    "Country": "amzus"
   },
   {
-    "Hostnames": "prox-hulu.pointtoserver.com",
-    "Port": 10780
+    "Host": " prox-hulu.pointtoserver.com",
+    "Port": 10780,
+    "Service": "Hulu US",
+    "Country": "hulu"
   },
   {
-    "Hostnames": "prox-espus.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-espus.pointtoserver.com",
+    "Port": 10780,
+    "Service": "ESPN US",
+    "Country": "espus"
   },
   {
-    "Hostnames": "prox-hbus.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-hbus.pointtoserver.com",
+    "Port": 10780,
+    "Service": "HBO MAX US",
+    "Country": "hbus"
   },
   {
-    "Hostnames": "prox-disus.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-disus.pointtoserver.com",
+    "Port": 10780,
+    "Service": "Disney US",
+    "Country": "disus"
   },
   {
-    "Hostnames": "prox-nflus.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-nflus.pointtoserver.com",
+    "Port": 10780,
+    "Service": "Netflix US",
+    "Country": "nflus"
   },
   {
-    "Hostnames": "prox-bbc.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-bbc.pointtoserver.com",
+    "Port": 10780,
+    "Service": "BBC iPlayer UK",
+    "Country": "bbc"
   },
   {
-    "Hostnames": "prox-netflixuk.pointtoserver.com",
-    "Port": 10780
+    "Host": "prox-netflixuk.pointtoserver.com",
+    "Port": 10780,
+    "Service": "Netflix UK",
+    "Country": "netflixuk"
   },
   {
-    "Hostnames": "prox-vudu.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-fox.pointtoserver.com",
+    "Port": 10799,
+    "Service": "FOX Sports",
+    "Country": "fox"
   },
-
   {
-    "Hostnames": "prox-abc.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-yttv.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Youtube TV",
+    "Country": "yttv"
   },
   {
-    "Hostnames": "prox-fubo.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-spt.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Spotify",
+    "Country": "spt"
   },
   {
-    "Hostnames": "prox-ptv.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-para.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Paramount",
+    "Country": "para"
   },
   {
-    "Hostnames": "prox-slng.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-nbc.pointtoserver.com",
+    "Port": 10799,
+    "Service": "NBC Sports",
+    "Country": "nbc"
   },
   {
-    "Hostnames": "prox-nbc.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-slng.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Sling TV",
+    "Country": "slng"
   },
   {
-    "Hostnames": "prox-para.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-ptv.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Peacock TV",
+    "Country": "ptv"
   },
   {
-    "Hostnames": "prox-spt.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-fubo.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Fubo TV",
+    "Country": "fubo"
   },
   {
-    "Hostnames": "prox-yttv.pointtoserver.com",
-    "Port": 10799
+    "Host": "prox-abc.pointtoserver.com",
+    "Port": 10799,
+    "Service": "ABC Go",
+    "Country": "abc"
+  },
+  {
+    "Host": "prox-vudu.pointtoserver.com",
+    "Port": 10799,
+    "Service": "Vudu",
+    "Country": "vudu"
   }
 ]
