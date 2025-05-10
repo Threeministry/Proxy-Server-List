@@ -1,0 +1,343 @@
+[
+  {
+    "Hostnames": "prox-af.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-al.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-dz.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ao.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ar.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-aw.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-au.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-at.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bs.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bh.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bd.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bb.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-be.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bm.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bo.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-br.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bn.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-bg.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ca.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ky.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-cl.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-cn.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-cz.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-dk.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-eg.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ee.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-fi.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-fr.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-de.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-gr.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-hk.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-hu.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-in.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ie.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-it.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-jp.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-lv.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-lt.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-lu.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-md.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-mc.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-nl.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-nz.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ng.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-no.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-om.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-pa.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ph.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-pl.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-pt.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-pr.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ro.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ru.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-rs.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-sg.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-sk.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-za.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-kr.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-es.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-se.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ch.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-tw.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-tr.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ae.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-uk.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-us.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-vn.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-vg.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-amzus.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-hulu.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-espus.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-hbus.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-disus.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-nflus.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-bbc.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-netflixuk.pointtoserver.com",
+    "Port": 10780
+  },
+  {
+    "Hostnames": "prox-vudu.pointtoserver.com",
+    "Port": 10799
+  },
+
+  {
+    "Hostnames": "prox-abc.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-fubo.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-ptv.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-slng.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-nbc.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-para.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-spt.pointtoserver.com",
+    "Port": 10799
+  },
+  {
+    "Hostnames": "prox-yttv.pointtoserver.com",
+    "Port": 10799
+  }
+]
